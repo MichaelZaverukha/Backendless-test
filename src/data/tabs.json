@@ -1,0 +1,8 @@
+[
+   {"id": "insightList", "title": "Insight List", "order": 0, "path": "pages/List.js"},
+   {"id": "insightEdit", "title": "Insight Edit", "order": 1, "path": "pages/Edit.js"},
+   {"id": "insightAdd", "title": "Insight Add", "order": 2, "path": "pages/Add.js"},
+   {"id": "insightEdit/:id", "title": "Insight Edit Holder", "order": 3, "path": "pages/EditHolder.js"}
+]
+
+
